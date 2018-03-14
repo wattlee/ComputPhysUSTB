@@ -10,7 +10,7 @@ This is a repository of Computational Physics, taught by Prof. Fuyang Tian, in U
 1. 注册账号并在github.com下载GitHubDesktopSetup.exe；
 2. 打开即可用，并且登录你的GitHub账号，过程中可能需要输入用户名和邮箱，对应你的GitHub用户名和邮箱即可；
 3. 进入主界面后，依次选择File->Clone Repository, 使用URL：https://github.com/wattlee/ComputPhysUSTB
-![Alt text](https://github.com/wattlee/ComputPhysUSTB/raw/master/photos/capture2.png)
+![Alt text](https://github.com/wattlee/ComputPhysUSTB/raw/master/photos/capture4.png)
 4. 点击Clone即可克隆到本地电脑。
 ### 分支管理和代码
 1. 默认的Branch是主分支。由于这是课程主页，不是合作开发，因此不必创建分支，当然，想创建分支的话也是可以的，每个人用自己的分支这样会更加清晰简洁。
