@@ -18,6 +18,7 @@ This is a repository of Computational Physics, taught by Prof. Fuyang Tian, in U
 2. 填写提交信息，这里的Summary是必填项，说明你这个change主要是做了什么（比如改了什么地方，上传了什么文件），Description是非必填的，可以详细描述一下自己的代码为什么这么写。提交（commit）代码到自己的分支，注意这个时候代码都只是在本地，并没有同步到服务器。
 3. 推送（push）到远程仓库，完成了一次代码提交。提交成功后还可以Undo撤销，然后我们可以看到History当中已经有你刚才的commit了，这个时候直接点击Push origin，即可把修改后的代码推送到远程仓库。
 注意：必须要在你Clone下来的Reposity所在文件夹中更改相关文件，否则Github客户端无法识别到更改。文件夹可以通过右键仓库名称显示出的菜单中的open in finder找到（Mac下）。
-
+### 提交前效果图
+![Alt text](https://github.com/wattlee/ComputPhysUSTB/raw/master/photos/gitcapture1.png)
 
 
