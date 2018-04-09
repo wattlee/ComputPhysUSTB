@@ -11,7 +11,7 @@ for i = 1:n
     y(i+1) = y(i) + dt*f(i);
 end
 x0=0; y0=1; xn=8; n=80;
-[t p yy] = euler_pc(@f00,x0,y0,xn,n);
+[t p yy] = euler_pc(@f00,x0,y0,xn,n)
 figure(1);
 set(gca,'FontSize',16);
 plot(t, y, 'b.',t,y(1)*exp(-lambda.*t),'r-');
